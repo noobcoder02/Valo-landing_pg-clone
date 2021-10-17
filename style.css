@@ -1,3 +1,7 @@
+*{
+    scroll-behaviour: smooth;
+}
+
 .nav-link{
     transition: 500ms;
 }
